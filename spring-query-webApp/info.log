@@ -1,0 +1,2 @@
+[main] INFO  com.saraya.springquerywebApp.Client  - Customer [phoneNumber=7022713745, name=Andrew, age=27, gender=M, address=Chicago, planId=2]
+[main] INFO  com.saraya.springquerywebApp.Client  - Customer [phoneNumber=7022713754, name=Adam, age=27, gender=M, address=Chicago, planId=1]
