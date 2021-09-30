@@ -1,0 +1,26 @@
+[main] INFO  com.saraya.springPaginationwebApp.Client  - Records are: 
+[main] INFO  com.saraya.springPaginationwebApp.Client  - Customer [phoneNumber=7022713744, name=Susan, age=27, gender=F, address=Alberta, planId=2]
+[main] INFO  com.saraya.springPaginationwebApp.Client  - Customer [phoneNumber=7022713745, name=Andrew, age=27, gender=M, address=New York, planId=2]
+[main] INFO  com.saraya.springPaginationwebApp.Client  - Customer [phoneNumber=7022713746, name=Diana, age=25, gender=F, address=Alberta, planId=1]
+[main] INFO  com.saraya.springPaginationwebApp.Client  - Records are: 
+[main] INFO  com.saraya.springPaginationwebApp.Client  - Customer [phoneNumber=7022713747, name=Grace, age=27, gender=F, address=Chicago, planId=1]
+[main] INFO  com.saraya.springPaginationwebApp.Client  - Customer [phoneNumber=7022713754, name=Adam, age=27, gender=M, address=Chicago, planId=1]
+[main] INFO  com.saraya.springPaginationwebApp.Client  - Sorted records..
+[main] INFO  com.saraya.springPaginationwebApp.Client  - Customer [phoneNumber=7022713744, name=Susan, age=27, gender=F, address=Alberta, planId=2]
+[main] INFO  com.saraya.springPaginationwebApp.Client  - Customer [phoneNumber=7022713747, name=Grace, age=27, gender=F, address=Chicago, planId=1]
+[main] INFO  com.saraya.springPaginationwebApp.Client  - Customer [phoneNumber=7022713746, name=Diana, age=25, gender=F, address=Alberta, planId=1]
+[main] INFO  com.saraya.springPaginationwebApp.Client  - Customer [phoneNumber=7022713745, name=Andrew, age=27, gender=M, address=New York, planId=2]
+[main] INFO  com.saraya.springPaginationwebApp.Client  - Customer [phoneNumber=7022713754, name=Adam, age=27, gender=M, address=Chicago, planId=1]
+[main] INFO  com.saraya.springPaginationwebApp.Client  - Records are: 
+[main] INFO  com.saraya.springPaginationwebApp.Client  - Customer [phoneNumber=7022713744, name=Susan, age=27, gender=F, address=Alberta, planId=2]
+[main] INFO  com.saraya.springPaginationwebApp.Client  - Customer [phoneNumber=7022713745, name=Andrew, age=27, gender=M, address=New York, planId=2]
+[main] INFO  com.saraya.springPaginationwebApp.Client  - Customer [phoneNumber=7022713746, name=Diana, age=25, gender=F, address=Alberta, planId=1]
+[main] INFO  com.saraya.springPaginationwebApp.Client  - Records are: 
+[main] INFO  com.saraya.springPaginationwebApp.Client  - Customer [phoneNumber=7022713747, name=Grace, age=27, gender=F, address=Chicago, planId=1]
+[main] INFO  com.saraya.springPaginationwebApp.Client  - Customer [phoneNumber=7022713754, name=Adam, age=27, gender=M, address=Chicago, planId=1]
+[main] INFO  com.saraya.springPaginationwebApp.Client  - Sorted records..
+[main] INFO  com.saraya.springPaginationwebApp.Client  - Customer [phoneNumber=7022713744, name=Susan, age=27, gender=F, address=Alberta, planId=2]
+[main] INFO  com.saraya.springPaginationwebApp.Client  - Customer [phoneNumber=7022713747, name=Grace, age=27, gender=F, address=Chicago, planId=1]
+[main] INFO  com.saraya.springPaginationwebApp.Client  - Customer [phoneNumber=7022713746, name=Diana, age=25, gender=F, address=Alberta, planId=1]
+[main] INFO  com.saraya.springPaginationwebApp.Client  - Customer [phoneNumber=7022713745, name=Andrew, age=27, gender=M, address=New York, planId=2]
+[main] INFO  com.saraya.springPaginationwebApp.Client  - Customer [phoneNumber=7022713754, name=Adam, age=27, gender=M, address=Chicago, planId=1]
