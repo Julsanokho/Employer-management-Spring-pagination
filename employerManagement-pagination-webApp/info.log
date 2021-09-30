@@ -1,0 +1,16 @@
+[main] INFO  com.saraya.employerManagementpaginationwebApp.Client  - Records are: 
+[main] INFO  com.saraya.employerManagementpaginationwebApp.Client  - Employer [phoneNumber=702223487, name=Amadou, age=18, gender=M, address=Diourbel, salary=300000, planId=5]
+[main] INFO  com.saraya.employerManagementpaginationwebApp.Client  - Employer [phoneNumber=761091098, name=Tamsir, age=23, gender=M, address=Kolda, salary=300000, planId=6]
+[main] INFO  com.saraya.employerManagementpaginationwebApp.Client  - Employer [phoneNumber=770440803, name=Boubacar, age=22, gender=M, address=Kaolack, salary=300000, planId=2]
+[main] INFO  com.saraya.employerManagementpaginationwebApp.Client  - Records are: 
+[main] INFO  com.saraya.employerManagementpaginationwebApp.Client  - Employer [phoneNumber=781111594, name=Jul, age=24, gender=M, address=Dakar, salary=300000, planId=1]
+[main] INFO  com.saraya.employerManagementpaginationwebApp.Client  - Employer [phoneNumber=782587118, name=Ousmane, age=25, gender=M, address=Fatick, salary=300000, planId=4]
+[main] INFO  com.saraya.employerManagementpaginationwebApp.Client  - Employer [phoneNumber=783396374, name=Dieyna, age=25, gender=F, address=Fouta, salary=300000, planId=3]
+[main] INFO  com.saraya.employerManagementpaginationwebApp.Client  - Records are: 
+[main] INFO  com.saraya.employerManagementpaginationwebApp.Client  - Sorted records..
+[main] INFO  com.saraya.employerManagementpaginationwebApp.Client  - Employer [phoneNumber=761091098, name=Tamsir, age=23, gender=M, address=Kolda, salary=300000, planId=6]
+[main] INFO  com.saraya.employerManagementpaginationwebApp.Client  - Employer [phoneNumber=782587118, name=Ousmane, age=25, gender=M, address=Fatick, salary=300000, planId=4]
+[main] INFO  com.saraya.employerManagementpaginationwebApp.Client  - Employer [phoneNumber=781111594, name=Jul, age=24, gender=M, address=Dakar, salary=300000, planId=1]
+[main] INFO  com.saraya.employerManagementpaginationwebApp.Client  - Employer [phoneNumber=783396374, name=Dieyna, age=25, gender=F, address=Fouta, salary=300000, planId=3]
+[main] INFO  com.saraya.employerManagementpaginationwebApp.Client  - Employer [phoneNumber=770440803, name=Boubacar, age=22, gender=M, address=Kaolack, salary=300000, planId=2]
+[main] INFO  com.saraya.employerManagementpaginationwebApp.Client  - Employer [phoneNumber=702223487, name=Amadou, age=18, gender=M, address=Diourbel, salary=300000, planId=5]
